@@ -1,0 +1,12 @@
+.get-button {
+    color: white;
+    width: auto;
+    height: auto;
+    border-radius: 20%;
+    stroke-width: 5px;
+    stroke: white;
+    background-color: yellowgreen;
+    margin: 5px;
+    margin-bottom: 5px;
+
+}
